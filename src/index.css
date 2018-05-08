@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto sans-serif;
+  background: linear-gradient(to left, rgb(0, 102, 181), rgb(15, 148, 251) )
+	
+}
+
+button{
+	cursor: pointer;
+}
